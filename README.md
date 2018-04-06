@@ -29,10 +29,11 @@ Then the bot assign a booking reference number, which is used for cancelling and
 </br>
 
 **Starting Server**
->$ gcc ChefBot_Server.c -o ChefBot_Server </br>
+> $ gcc ChefBot_Server.c -o ChefBot_Server </br>
 $ ./ChefBot_Server
 
 </br>
 **Opening Client**
+
 >$ gcc User_Client.c -o User_Client </br>
 $ ./User_Client
